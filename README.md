@@ -3,21 +3,20 @@
 ## Google Summer of Code '24
 
 - **Name:** Abhishek Bansal
-- **Email:** bansalabhishek7411@gmail.com
-- **GitHub Username:** RunTerror
-- **LinkedIn:** Abhishek Bansal
+- **Email:** [bansalabhishek7411@gmail.com](mailto:bansalabhishek7411@gmail.com)
+- **GitHub Username:** [RunTerror](https://github.com/RunTerror)
+- **LinkedIn:** [Abhishek Bansal](https://www.linkedin.com/in/abhishek-bansal-123456789/) 
 - **University:** Institute of Engineering and Technology, Lucknow, Uttar Pradesh
 - **Organization:** CCExtractor
 - **Project Title:** Beacon
 - **Project Link:** [Beacon Repository](https://github.com/CCExtractor/beacon)
 
+
 ## Table of Contents
 
 1. [My Project Work](#my-project-work)
 2. [Work Track](#work-track)
-3. [Link to Work](#link-to-work)
-4. [Weekly Reports](#weekly-reports)
-5. [Personal Note](#personal-note)
+3. [Personal Note](#personal-note)
 
 ## My Project Work
 
@@ -80,6 +79,28 @@ https://github.com/user-attachments/assets/7416a0d0-37c9-445b-a50e-9f9cc8c773ec
 
 
 
+## Work Track
+
+## Backend work
+
+Objective: To enhance the Beacon backend with new mutations and subscriptions for beacon management and real-time updates.
+
+| Name of the Task                  | Description                                                                                          | Link to Work                                                                                                                                                     |
+|----------------------------------|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Query and mutations             | Added mutations and subscriptions for beacon filtering, rescheduling, and deletion.                 | [PR #380](https://github.com/CCExtractor/beacon-backend/pull/380)                                                                                              |
+| Real-Time Updates               | Enabled real-time updates for groups and beacons through subscriptions.                             | [PR #381](https://github.com/CCExtractor/beacon-backend/pull/381)                                                                                              |
+
+
+## Frontend work
+
+Objective: To enhance the frontend by structuring the app, migrating screens to BLoC, and managing beacon functionalities.
+
+| Name of the Task                       | Description                                                                                             | Link to Work                                                                                                                               |
+|---------------------------------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| App Routing and Folder Structuring    | Divided the app into data, domain, and presentation layers and used App Router for navigation.          | [PR #237](https://github.com/CCExtractor/beacon/pull/237)                                                                                  |
+| Home and Group Screens Module Migration | Migrated home and group screens to BLoC, introducing separate Cubit files for each module.              | [PR #238](https://github.com/CCExtractor/beacon/pull/238/files)                                                                                                                     |
+| Beacon Management                     | Implemented beacon deletion, rescheduling, and filter options.                                         | [Hike Cubit Code](https://github.com/CCExtractor/beacon/blob/36e489cf10c7058e94aeca11af720567966a370f/lib/presentation/hike/cubit/location_cubit/location_cubit.dart) |
+
 
 
 
@@ -87,4 +108,4 @@ https://github.com/user-attachments/assets/7416a0d0-37c9-445b-a50e-9f9cc8c773ec
 
 ## Personal Note
 
-As GSoC'24 draws to a close, I want to express my heartfelt gratitude to my mentor, **Mabud Alam**, for his unwavering guidance and support throughout the project. Working on [Beacon](https://github.com/CCExtractor/beacon) has been an incredibly rewarding experience, and I'm excited to continue contributing to **CCExtractor** and the broader open-source community. Let's keep the momentum going! 🚀
+As GSoC'24 draws to a close, I want to express my heartfelt gratitude to my mentor, **Akshat Tripath** and **Aadi Bajpai**, for his unwavering guidance and support throughout the project. Working on [Beacon](https://github.com/CCExtractor/beacon) has been an incredibly rewarding experience, and I'm excited to continue contributing to **CCExtractor** and the broader open-source community. Let's keep the momentum going! 🚀
