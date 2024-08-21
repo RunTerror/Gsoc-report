@@ -92,7 +92,8 @@ Objective: To enhance the Beacon backend with new mutations and subscriptions fo
 | Name of the Task                  | Description                                                                                          | Link to Work                                                                                                                                                     |
 |----------------------------------|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Query and mutations             | Added mutations and subscriptions for beacon filtering, rescheduling, and deletion.                 | [PR #380](https://github.com/CCExtractor/beacon-backend/pull/380)                                                                                              |
-| Real-Time Updates               | Enabled real-time updates for groups and beacons through subscriptions.                             | [PR #381](https://github.com/CCExtractor/beacon-backend/pull/381)                                                                                              |
+|Group Real-Time Updates               | Enabled real-time updates for groups and beacons through subscriptions.                             | [PR #382](https://github.com/CCExtractor/beacon-backend/pull/381)      
+|Beacon Real-Time Updates               | Enabled real-time updates for groups and beacons through subscriptions.                             | [PR #381](https://github.com/CCExtractor/beacon-backend/pull/381)  
 
 
 ## Frontend work
