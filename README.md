@@ -105,7 +105,7 @@ Objective: To enhance the frontend by structuring the app, migrating screens to 
 | App Routing and Folder Structuring    | Divided the app into data, domain, and presentation layers and used App Router for navigation.          | [PR #237](https://github.com/CCExtractor/beacon/pull/237)                                                                                  |
 | Home and Group Screens Module Migration | Migrated home and group screens to BLoC, introducing separate Cubit files for each module.              | [PR #238](https://github.com/CCExtractor/beacon/pull/238/files)                                                                                                                     |
 | Beacon Management                     | Implemented beacon deletion, rescheduling, and filter options.                                         | [Hike Cubit](https://github.com/CCExtractor/beacon/blob/36e489cf10c7058e94aeca11af720567966a370f/lib/presentation/hike/cubit/location_cubit/location_cubit.dart) |
-| Readme                     | new folder structure according to project                                     | [PR #239](https://github.com/CCExtractor/beacon/blob/36e489cf10c7058e94aeca11af720567966a370f/lib/presentation/hike/cubit/location_cubit/location_cubit.dart) |
+| Readme                     | new folder structure according to project                                     | [PR #239](https://github.com/CCExtractor/beacon/pull/241) |
 
 
 
