@@ -114,4 +114,4 @@ Objective: To enhance the frontend by structuring the app, migrating screens to 
 
 ## Personal Note
 
-As GSoC'24 draws to a close, I want to express my heartfelt gratitude to my mentor, **Akshat Tripath** and **Aadi Bajpai**, for his unwavering guidance and support throughout the project. Working on [Beacon](https://github.com/CCExtractor/beacon) has been an incredibly rewarding experience, and I'm excited to continue contributing to **CCExtractor** and the broader open-source community. Let's keep the momentum going! 🚀
+As GSoC'24 draws to a close, I want to express my heartfelt gratitude to my mentors, **Akshat Tripathi** and **Aadi Bajpai**, for their unwavering guidance and support throughout the project. Working on [Beacon](https://github.com/CCExtractor/beacon) has been an incredibly rewarding experience, and I'm excited to continue contributing to **CCExtractor** and the broader open-source community. I want to become mentor for this project next year and will contribute more to make this project even better. Let's keep the momentum going! 🚀
